@@ -389,6 +389,9 @@
   margin: 0;
   padding-bottom: 32px;
 }
+.about__paragraph:last-child {
+  padding-bottom: 0px;
+}
 .about__paragraph:last-of-type {
   margin-bottom: 0;
 }
